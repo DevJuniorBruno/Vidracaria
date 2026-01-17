@@ -1,5 +1,5 @@
 import './footer.css';
-import { FaFacebook, FaLinkedinIn, FaGithub } from 'react-icons/fa';
+import { FaFacebook, FaInstagram } from 'react-icons/fa';
 
  function Footer(){
     return(
@@ -12,15 +12,14 @@ import { FaFacebook, FaLinkedinIn, FaGithub } from 'react-icons/fa';
                     
                    <ul>
                         <li>
-                            <a target="blank" rel='external' href={'https://www.facebook.com/profile.php?id=100002376864543'}>
+                            <a target="blank" rel='external' href={'https://www.facebook.com/'}>
                                 <FaFacebook/>
                             </a>
-                            <a target="blank" rel='external' href={' https://www.linkedin.com/in/bruno-rosa-6956871b5/'}>
-                            <FaLinkedinIn/>
+                             <a target="blank" rel='external' href={'https://www.instagram.com/'}>
+                                <FaInstagram/>
                             </a>
-                            <a targer='blank' rel='external' href={' https://github.com/DevJuniorBruno'}>
-                            <FaGithub/>
-                            </a>
+                            
+                            
                         </li>
                     </ul>
                 </div>
