@@ -1,0 +1,15 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import './whatsAppButton.css';
+
+const WhatsAppButton = () => {
+  return (
+    <div className='containerwhatsApp' >
+    <a href="https://api.whatsapp.com/send/?phone=5511984814118" target="_blank" rel="noopener noreferrer" className="whatsapp-button">
+      <FontAwesomeIcon icon={faWhatsapp} className="whatsapp-button-icon" />
+    </a>
+    </div>
+  );
+};
+
+export default WhatsAppButton;
