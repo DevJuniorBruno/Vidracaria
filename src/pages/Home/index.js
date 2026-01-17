@@ -17,13 +17,13 @@ function Home() {
                     </div>
                     
                     <div className='divButton'>
-                        <Link className='button' to='clinica'>Saiba mais</Link>
+                        <Link className='button' to='banhoetosa'>Saiba mais</Link>
                     </div>
                 </section>
 
                 <section className='module_content'>
                     <div className='icones-links'>
-                    <Link to="clinica" >
+                    <Link to="banhoetosa" >
                         <img className='caminhao' to='clinica' src={ Caminhao } alt="caminhao-link" />
                         <p>Box Sob Medida</p>
                     </Link> 
@@ -49,7 +49,7 @@ function Home() {
                             Teremos o maior prazer em lhe atender.
                         </p>
                         <div className='divButton'>
-                            <Link className='button' to='clinica'>Contato</Link>
+                            <Link className='button' to='contato'>Contato</Link>
                         </div>
 
                     </div>

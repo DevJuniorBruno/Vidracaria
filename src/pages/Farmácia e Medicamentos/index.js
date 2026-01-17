@@ -1,6 +1,7 @@
 import './farmacia.css'
-import DogGrande from "../../img/cachorro.png"
 import WhatsAppButton from '../../Components/WhatsButton';
+import { Link } from 'react-router-dom';
+
 
 
 function Servicos() {
@@ -47,9 +48,11 @@ function Servicos() {
                         </p>
                     </div>
                 </div>
-                <div  className='dogGrande'>
-                    <img src={DogGrande} alt="patas_animais" />
-                </div>
+               <div className='espacamento'>
+                   <div className='divButton'>
+                        <Link className='button' to='banhoetosa'>Saiba mais</Link>
+                    </div>
+               </div>
                 <WhatsAppButton/>
 
         </header>

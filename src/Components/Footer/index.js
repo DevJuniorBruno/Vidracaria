@@ -6,10 +6,11 @@ import { FaFacebook, FaLinkedinIn, FaGithub } from 'react-icons/fa';
         <footer>
             <div className='social_footer'>
                 <div>
-                    <p>© Simplesvet</p>
+                    <p>© MM BOX</p>
                 </div>
                 <div className='social_list'>
-                    <ul>
+                    
+                   <ul>
                         <li>
                             <a target="blank" rel='external' href={'https://www.facebook.com/profile.php?id=100002376864543'}>
                                 <FaFacebook/>
