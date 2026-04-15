@@ -16,7 +16,7 @@ function Servicos() {
                         <h1>
                             Soluções completas em box de vidro para seu banheiro
                         </h1>
-                        <p>A MM BOX oferece um serviço completo, desde a medição até a instalação final, 
+                        <p>A CAIO BOX oferece um serviço completo, desde a medição até a instalação final, 
                            garantindo um resultado funcional, seguro e esteticamente sofisticado.
                         </p>
                     </div>

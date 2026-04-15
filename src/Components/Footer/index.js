@@ -6,7 +6,7 @@ import { FaFacebook, FaInstagram } from 'react-icons/fa';
         <footer>
             <div className='social_footer'>
                 <div>
-                    <p>© MM BOX</p>
+                    <p>© CAIO BOX</p>
                 </div>
                 <div className='social_list'>
                     
