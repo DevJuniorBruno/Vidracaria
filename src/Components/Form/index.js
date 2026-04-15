@@ -22,7 +22,7 @@ function sendEmail(e){
         email: email
     }
 
-    emailjs.send("service_sm92grr", "template_om1nig4", templateParams ,'rnRNt0HPmkK7VUCM2')
+    emailjs.send("service_y6wfacu", "template_om1nig4", templateParams ,'rnRNt0HPmkK7VUCM2')
     .then((response)=>{
         console.log("email enviado", response.status, response.text);
         setName("")
@@ -41,8 +41,8 @@ return(
         Utilize deste formulárop de contato para tirar dúvidas
         ou obter maiores Informações. Se preferir utilize nosso e-mail ou telefone.
     </p>
-    <p><strong>Telefone: </strong>(xx) 97382 8394</p>
-    <p><strong>E-mail: </strong>emailprofissional@gmail.com</p>
+    <p><strong>Telefone: </strong>(11) 98481-4118</p>
+    <p><strong>E-mail: </strong>vidraceirocaio@gmail.com</p>
 
     <form className='form' onSubmit={sendEmail} >
         <input 
