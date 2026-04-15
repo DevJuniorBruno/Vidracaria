@@ -188,6 +188,13 @@ section.module.parallax-1{
     }
 }
 
+@media (max-width: 768px) {
+    section.module.parallax{
+        background-image: url('../../img/background-dog.jpg'); /* coloque na pasta public */
+        background-position: center;
+    }
+}
+
 @media (max-width:650px) {
     #saibamais {
         font-size: 20px;
