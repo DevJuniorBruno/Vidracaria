@@ -9,7 +9,7 @@ function Servicos() {
         <header className='servicos'>
             <div className='projetos_container'>
                     <h1>SERVIÇOS</h1>
-                    <p>MM BOX</p>
+                    <p>CAIO BOX</p>
             </div>
                 <div className='container_infos_servicos'>
                     <div  className='infos_servicos'>

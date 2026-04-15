@@ -16,7 +16,7 @@ function BanhoeTosa() {
        
       <div className="projetos_container">
            <h1>PROJETOS </h1>
-           <p>MM BOX</p>
+           <p>CAIO BOX</p>
         </div>
 
          <div  className='infos_projetos'>

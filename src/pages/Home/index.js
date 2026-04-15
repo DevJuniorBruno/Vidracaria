@@ -12,7 +12,7 @@ function Home() {
                 <section className='module parallax parallax-1'>  
                     <div className='container-h1'>
                         <span className='h1-home'>
-                            <span id='mm' >MM</span> BOX
+                            <span id='mm' >CAIO</span> BOX
                         </span>
                     </div>
                     
