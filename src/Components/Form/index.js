@@ -38,7 +38,7 @@ return(
     <div className='contact'>
     <h1 className='title_Contact'>Informações de Contato</h1>
     <p>
-        Utilize deste formulárop de contato para tirar dúvidas
+        Utilize deste formulário de contato para tirar dúvidas
         ou obter maiores Informações. Se preferir utilize nosso e-mail ou telefone.
     </p>
     <p><strong>Telefone: </strong>(11) 98481-4118</p>

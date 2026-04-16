@@ -8,6 +8,7 @@ import BoxDeCanto from '../../img/boxdecanto.jpg';
 import BoxDeAbrir from '../../img/boxdeabrir.jpg';
 import WhatsAppButton from '../../Components/WhatsButton';
 import BoxFume from '../../img/boxfume.jpg';
+import BoxFrontal from '../../img/boxfrontal.png';
 
 function BanhoeTosa() {
   return (
@@ -60,6 +61,11 @@ function BanhoeTosa() {
         <div className="project-card">
           <span className= 'h1-card'>Box de Abrir</span>
           <img src={BoxDeAbrir} alt="Box de abrir" />
+        </div>
+
+        <div className="project-card">
+          <span className= 'h1-card'>Box Frontal</span>
+          <img src={BoxFrontal} alt="Box de abrir" />
         </div>
 
       </div>
